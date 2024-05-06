@@ -77,7 +77,7 @@
        (coffee "#c7915b")
        (darkroast "#88633f")
 
-       (bg blackgravel)
+       (bg coal)
        (hl-line darkgravel))
 
   (custom-theme-set-variables
